@@ -15,4 +15,4 @@ shiny, cluster, MASS, RSQLite
 
 CRDMaAtRS depends or uses SQLite database engine. Visit https://www.sqlite.org/index.html for more information. Advanced version can be configured for MySQL, PostgreSQL, and few other database tools.
 
-Contact +919177573730/+9848396972 for advanced application. Write to kamakshaiah.m@gmail.com for training & consultancy.
+Contact +919177573730/+9848396972 for advanced application. Write to contact@bse-cs.com for training & consultancy.
